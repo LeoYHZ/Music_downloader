@@ -15,7 +15,7 @@ Python课程大作业。
 ```python
 python3 main.py
 ```
-或下载[release](https://github.com/LeoYHZ/Music_downloader/releases)中的exe文件即可进行下载，下方为输出示例。
+或运行[release](https://github.com/LeoYHZ/Music_downloader/releases)中的exe文件即可进行下载，下方为输出示例。
 ```shell
 输入歌曲名称：大鱼
 请选择下载来源
