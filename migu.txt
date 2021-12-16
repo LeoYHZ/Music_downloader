@@ -1,0 +1,153 @@
+[
+    {
+        "singer_name": "周深",
+        "music_name": "大鱼 (动漫《大鱼海棠》广告宣传曲)",
+        "music_url": "https://music.migu.cn/v3/music/song/64380800312"
+    },
+    {
+        "singer_name": "郭沁/邢晗铭",
+        "music_name": "大鱼 (2021中国好声音 中秋晚会)",
+        "music_url": "https://music.migu.cn/v3/music/song/69905305445"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Sandra's Theme(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFQ"
+    },
+    {
+        "singer_name": "郭沁/周深",
+        "music_name": "大鱼(中国新歌声)",
+        "music_url": "https://music.migu.cn/v3/music/song/6404689Z0HE"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Jenny's Theme(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFH"
+    },
+    {
+        "singer_name": "周深/贾玲",
+        "music_name": "大鱼(青春环游记第二季)",
+        "music_url": "https://music.migu.cn/v3/music/song/60081303524"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "In The Tub(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFL"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Underwater(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970EBKG"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Pictures(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970EBKS"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Rebuilding(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFN"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Shoe Stealing(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFR"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Return To Spectre(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970EBKP"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Leaving Spectre(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFP"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Sandra's Farewell(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFK"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "End Titles(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFJ"
+    }
+][
+    {
+        "singer_name": "周深",
+        "music_name": "大鱼 (动漫《大鱼海棠》广告宣传曲)",
+        "music_url": "https://music.migu.cn/v3/music/song/64380800312"
+    },
+    {
+        "singer_name": "郭沁/邢晗铭",
+        "music_name": "大鱼 (2021中国好声音 中秋晚会)",
+        "music_url": "https://music.migu.cn/v3/music/song/69905305445"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Sandra's Theme(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFQ"
+    },
+    {
+        "singer_name": "郭沁/周深",
+        "music_name": "大鱼(中国新歌声)",
+        "music_url": "https://music.migu.cn/v3/music/song/6404689Z0HE"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Jenny's Theme(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFH"
+    },
+    {
+        "singer_name": "周深/贾玲",
+        "music_name": "大鱼(青春环游记第二季)",
+        "music_url": "https://music.migu.cn/v3/music/song/60081303524"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "In The Tub(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFL"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Underwater(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970EBKG"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Pictures(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970EBKS"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Rebuilding(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFN"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Shoe Stealing(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFR"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Return To Spectre(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970EBKP"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Leaving Spectre(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFP"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "Sandra's Farewell(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFK"
+    },
+    {
+        "singer_name": "Danny Elfman",
+        "music_name": "End Titles(电影《大鱼》背景音乐)",
+        "music_url": "https://music.migu.cn/v3/music/song/6005970MAFJ"
+    }
+]

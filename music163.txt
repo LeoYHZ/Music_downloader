@@ -1,0 +1,243 @@
+[
+    {
+        "music_name": "大鱼 (Live)",
+        "music_id": 1421191783,
+        "album_id": 1030001,
+        "singer_name": "周深"
+    },
+    {
+        "music_name": "大鱼 (唱片版)",
+        "music_id": 516823132,
+        "album_id": 1030001,
+        "singer_name": "周深"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1431089706,
+        "album_id": 32888714,
+        "singer_name": "大鱼"
+    },
+    {
+        "music_name": "大鱼 钢琴版",
+        "music_id": 414706265,
+        "album_id": 12052034,
+        "singer_name": "昼夜"
+    },
+    {
+        "music_name": "大鱼（纯音乐版）",
+        "music_id": 1468259255,
+        "album_id": 13152912,
+        "singer_name": "笑白Ermy"
+    },
+    {
+        "music_name": "大鱼  （Cover 周深）",
+        "music_id": 416385506,
+        "album_id": 12025552,
+        "singer_name": "双笙（陈元汐）"
+    },
+    {
+        "music_name": "大鱼（Cover 郭沁 / 周深）",
+        "music_id": 506465089,
+        "album_id": 12147214,
+        "singer_name": "Fancy"
+    },
+    {
+        "music_name": "大鱼(徐梦圆Remix)",
+        "music_id": 418257482,
+        "album_id": 1142042,
+        "singer_name": "徐梦圆"
+    },
+    {
+        "music_name": "大鱼（纯音乐钢琴版）",
+        "music_id": 1848041723,
+        "album_id": 30475306,
+        "singer_name": "杨若风"
+    },
+    {
+        "music_name": "大鱼（大提琴低音版）",
+        "music_id": 1425099902,
+        "album_id": 34351327,
+        "singer_name": "CelloNaduo"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1398140745,
+        "album_id": 33204603,
+        "singer_name": "欣然酱"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1328910631,
+        "album_id": 30285508,
+        "singer_name": "王玉萌"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1486257200,
+        "album_id": 37051941,
+        "singer_name": "原道"
+    },
+    {
+        "music_name": "大鱼海棠",
+        "music_id": 1328287809,
+        "album_id": 12936218,
+        "singer_name": "June"
+    },
+    {
+        "music_name": "大鱼（唯美钢琴版）",
+        "music_id": 1310363746,
+        "album_id": 12419160,
+        "singer_name": "李好"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1903652931,
+        "album_id": 46721380,
+        "singer_name": "瑟瑟小妲己"
+    },
+    {
+        "music_name": "Love Love（金潤吉版）",
+        "music_id": 1903302589,
+        "album_id": 49772259,
+        "singer_name": "王大鱼"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1900771503,
+        "album_id": 50711828,
+        "singer_name": "LUXIAN"
+    },
+    {
+        "music_name": "飞鸟与雾.",
+        "music_id": 1903090312,
+        "album_id": 49772259,
+        "singer_name": "王大鱼"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1452046759,
+        "album_id": 12077192,
+        "singer_name": "陈德隆"
+    }
+][
+    {
+        "music_name": "大鱼 (Live)",
+        "music_id": 1421191783,
+        "album_id": 1030001,
+        "singer_name": "周深"
+    },
+    {
+        "music_name": "大鱼 (唱片版)",
+        "music_id": 516823132,
+        "album_id": 1030001,
+        "singer_name": "周深"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1431089706,
+        "album_id": 32888714,
+        "singer_name": "大鱼"
+    },
+    {
+        "music_name": "大鱼 钢琴版",
+        "music_id": 414706265,
+        "album_id": 12052034,
+        "singer_name": "昼夜"
+    },
+    {
+        "music_name": "大鱼（纯音乐版）",
+        "music_id": 1468259255,
+        "album_id": 13152912,
+        "singer_name": "笑白Ermy"
+    },
+    {
+        "music_name": "大鱼  （Cover 周深）",
+        "music_id": 416385506,
+        "album_id": 12025552,
+        "singer_name": "双笙（陈元汐）"
+    },
+    {
+        "music_name": "大鱼（Cover 郭沁 / 周深）",
+        "music_id": 506465089,
+        "album_id": 12147214,
+        "singer_name": "Fancy"
+    },
+    {
+        "music_name": "大鱼(徐梦圆Remix)",
+        "music_id": 418257482,
+        "album_id": 1142042,
+        "singer_name": "徐梦圆"
+    },
+    {
+        "music_name": "大鱼（纯音乐钢琴版）",
+        "music_id": 1848041723,
+        "album_id": 30475306,
+        "singer_name": "杨若风"
+    },
+    {
+        "music_name": "大鱼（大提琴低音版）",
+        "music_id": 1425099902,
+        "album_id": 34351327,
+        "singer_name": "CelloNaduo"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1398140745,
+        "album_id": 33204603,
+        "singer_name": "欣然酱"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1328910631,
+        "album_id": 30285508,
+        "singer_name": "王玉萌"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1486257200,
+        "album_id": 37051941,
+        "singer_name": "原道"
+    },
+    {
+        "music_name": "大鱼海棠",
+        "music_id": 1328287809,
+        "album_id": 12936218,
+        "singer_name": "June"
+    },
+    {
+        "music_name": "大鱼（唯美钢琴版）",
+        "music_id": 1310363746,
+        "album_id": 12419160,
+        "singer_name": "李好"
+    },
+    {
+        "music_name": "Love Love（金潤吉版）",
+        "music_id": 1903302589,
+        "album_id": 49772259,
+        "singer_name": "王大鱼"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1903652931,
+        "album_id": 46721380,
+        "singer_name": "瑟瑟小妲己"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1900771503,
+        "album_id": 50711828,
+        "singer_name": "LUXIAN"
+    },
+    {
+        "music_name": "飞鸟与雾.",
+        "music_id": 1903090312,
+        "album_id": 49772259,
+        "singer_name": "王大鱼"
+    },
+    {
+        "music_name": "大鱼",
+        "music_id": 1452046759,
+        "album_id": 12077192,
+        "singer_name": "陈德隆"
+    }
+]

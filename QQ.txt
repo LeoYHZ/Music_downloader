@@ -1,0 +1,2653 @@
+[
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "我愛你",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003q3utM1juRRl"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "告白の夜 (告白之夜)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002A2Txb2k1Gwa"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "我爱你",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/00186Ty01lUPBV"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "米津玄師-打上花火",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000wNBRK1cQgJz"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "Lemon",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000gzQPI42jAPr"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "米津玄師-lemon",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001P09RF0Alnh8"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "告白の夜 (告白之夜) (LIVE!! Ayasa Theater episode 7)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000rEXFy3W2We1"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "渡月桥思君 (Ayasa绚沙 Remix)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003zCNea3b8nSo"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "千本樱",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000DGJ1y3iQDYB"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "凛として時雨-Unravel",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003dtJjX08HOHV"
+    }
+][
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "我愛你",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003q3utM1juRRl"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "告白の夜 (告白之夜)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002A2Txb2k1Gwa"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "我爱你",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/00186Ty01lUPBV"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "米津玄師-打上花火",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000wNBRK1cQgJz"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "Lemon",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000gzQPI42jAPr"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "米津玄師-lemon",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001P09RF0Alnh8"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "告白の夜 (告白之夜) (LIVE!! Ayasa Theater episode 7)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000rEXFy3W2We1"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "渡月桥思君 (Ayasa绚沙 Remix)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003zCNea3b8nSo"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "千本樱",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000DGJ1y3iQDYB"
+    },
+    {
+        "singer_name": "Ayasa绚沙",
+        "music_name": "凛として時雨-Unravel",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003dtJjX08HOHV"
+    }
+][
+    {
+        "music_name": "我愛你",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003q3utM1juRRl",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "告白の夜 (告白之夜)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002A2Txb2k1Gwa",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "我爱你",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/00186Ty01lUPBV",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "米津玄師-打上花火",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000wNBRK1cQgJz",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "Lemon",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000gzQPI42jAPr",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "米津玄師-lemon",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001P09RF0Alnh8",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "告白の夜 (告白之夜) (LIVE!! Ayasa Theater episode 7)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000rEXFy3W2We1",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "渡月桥思君 (Ayasa绚沙 Remix)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003zCNea3b8nSo",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "千本樱",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000DGJ1y3iQDYB",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "凛として時雨-Unravel",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003dtJjX08HOHV",
+        "singer_name": "Ayasa绚沙"
+    }
+][
+    {
+        "music_name": "我愛你",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003q3utM1juRRl",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "告白の夜 (告白之夜)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002A2Txb2k1Gwa",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "我爱你",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/00186Ty01lUPBV",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "米津玄師-打上花火",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000wNBRK1cQgJz",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "Lemon",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000gzQPI42jAPr",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "米津玄師-lemon",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001P09RF0Alnh8",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "告白の夜 (告白之夜) (LIVE!! Ayasa Theater episode 7)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000rEXFy3W2We1",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "渡月桥思君 (Ayasa绚沙 Remix)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003zCNea3b8nSo",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "千本樱",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000DGJ1y3iQDYB",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "凛として時雨-Unravel",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003dtJjX08HOHV",
+        "singer_name": "Ayasa绚沙"
+    }
+][
+    {
+        "music_name": "我愛你",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003q3utM1juRRl",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "告白の夜 (告白之夜)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002A2Txb2k1Gwa",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "我爱你",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/00186Ty01lUPBV",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "米津玄師-打上花火",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000wNBRK1cQgJz",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "Lemon",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000gzQPI42jAPr",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "米津玄師-lemon",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001P09RF0Alnh8",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "告白の夜 (告白之夜) (LIVE!! Ayasa Theater episode 7)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000rEXFy3W2We1",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "渡月桥思君 (Ayasa绚沙 Remix)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003zCNea3b8nSo",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "千本樱",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000DGJ1y3iQDYB",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "凛として時雨-Unravel",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003dtJjX08HOHV",
+        "singer_name": "Ayasa绚沙"
+    }
+][
+    {
+        "music_name": "我愛你",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003q3utM1juRRl",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "告白の夜 (告白之夜)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002A2Txb2k1Gwa",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "我爱你",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/00186Ty01lUPBV",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "米津玄師-打上花火",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000wNBRK1cQgJz",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "Lemon",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000gzQPI42jAPr",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "米津玄師-lemon",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001P09RF0Alnh8",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "告白の夜 (告白之夜) (LIVE!! Ayasa Theater episode 7)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000rEXFy3W2We1",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "渡月桥思君 (Ayasa绚沙 Remix)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003zCNea3b8nSo",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "千本樱",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000DGJ1y3iQDYB",
+        "singer_name": "Ayasa绚沙"
+    },
+    {
+        "music_name": "凛として時雨-Unravel",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003dtJjX08HOHV",
+        "singer_name": "Ayasa绚沙"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv",
+        "singer_name": "周深"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o",
+        "singer_name": "周深"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL",
+        "singer_name": "May Pian"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe",
+        "singer_name": "汐柔"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo",
+        "singer_name": "周深"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb",
+        "singer_name": "陈奕迅"
+    },
+    {
+        "music_name": "大鱼",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K",
+        "singer_name": "强彧玺"
+    },
+    {
+        "music_name": "大鱼 (恋爱版)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001w7XN90P1YgG",
+        "singer_name": "白日梦"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh",
+        "singer_name": "一颗狼星"
+    },
+    {
+        "music_name": "大鱼",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi",
+        "singer_name": "双笙 (陈元汐)"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    },
+    {
+        "music_name": "大鱼 (恋爱版)",
+        "singer_name": "白日梦",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001w7XN90P1YgG"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    },
+    {
+        "music_name": "大鱼 (恋爱版)",
+        "singer_name": "白日梦",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001w7XN90P1YgG"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "BEYOND",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000lIkuJ1CQHpI"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000aWBBQ2fMyBJ"
+    },
+    {
+        "music_name": "情人 (Live)",
+        "singer_name": "G.E.M. 邓紫棋",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003cK0Uu1pk09I"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003clXhP4HOJuW"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003aNE463RHQws"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002gTGmX2BjMkH"
+    },
+    {
+        "music_name": "情人 (Adolf Jack Remix)",
+        "singer_name": "BEYOND",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000BDfKN1ot63q"
+    },
+    {
+        "music_name": "情人 (Live)",
+        "singer_name": "张学友",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001jGt7P3kd02E"
+    },
+    {
+        "music_name": "情人 (Live)",
+        "singer_name": "古巨基",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004fYMfR2y8nZG"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0027jzHT0HX3gu"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    },
+    {
+        "music_name": "大鱼 (恋爱版)",
+        "singer_name": "白日梦",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001w7XN90P1YgG"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    }
+][
+    {
+        "music_name": "我愛你",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003q3utM1juRRl"
+    },
+    {
+        "music_name": "告白の夜 (告白之夜)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002A2Txb2k1Gwa"
+    },
+    {
+        "music_name": "我爱你",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/00186Ty01lUPBV"
+    },
+    {
+        "music_name": "米津玄師-打上花火",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000wNBRK1cQgJz"
+    },
+    {
+        "music_name": "Lemon",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000gzQPI42jAPr"
+    },
+    {
+        "music_name": "渡月桥思君 (Ayasa绚沙 Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003zCNea3b8nSo"
+    },
+    {
+        "music_name": "千本樱",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000DGJ1y3iQDYB"
+    },
+    {
+        "music_name": "告白の夜 (告白之夜) (LIVE!! Ayasa Theater episode 7)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000rEXFy3W2We1"
+    },
+    {
+        "music_name": "米津玄師-lemon",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001P09RF0Alnh8"
+    },
+    {
+        "music_name": "凛として時雨-Unravel",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003dtJjX08HOHV"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼 (恋爱版)",
+        "singer_name": "白日梦",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001w7XN90P1YgG"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003CP8eZ1oGpzT"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003CP8eZ1oGpzT"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003CP8eZ1oGpzT"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003CP8eZ1oGpzT"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003CP8eZ1oGpzT"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003CP8eZ1oGpzT"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003CP8eZ1oGpzT"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003CP8eZ1oGpzT"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003CP8eZ1oGpzT"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    }
+][
+    {
+        "music_name": "暗夜深宠：老公用力爱366程清瑶，程清瑶你在哪里？ (节目)",
+        "singer_name": "鲨鱼",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000P2gUk3PSYo9"
+    },
+    {
+        "music_name": "我们年少",
+        "singer_name": "鲨鱼",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003AB9yV2LWt81"
+    },
+    {
+        "music_name": "明天",
+        "singer_name": "鲨鱼",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000SLakl2BH4aT"
+    },
+    {
+        "music_name": "鲨鱼一家 (节目)",
+        "singer_name": "贝乐虎",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000YOGaK083uou"
+    },
+    {
+        "music_name": "鲨鱼鲨鱼",
+        "singer_name": "王蓉",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000jtOpr43o1cl"
+    },
+    {
+        "music_name": "Baby Shark(鲨鱼宝宝) (节目)",
+        "singer_name": "亲子群星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003C6g9b1fDHzW"
+    },
+    {
+        "music_name": "鲨鱼宝宝",
+        "singer_name": "鲨鱼宝宝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003LZczr0rV1lB"
+    },
+    {
+        "music_name": "【超级宝贝JoJo】鲨鱼手指歌 (节目)",
+        "singer_name": "超级宝贝JoJo",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002EWsiS049F0O"
+    },
+    {
+        "music_name": "鲨鱼 (Demo)",
+        "singer_name": "沈以诚",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0042ECSG0tgTV9"
+    },
+    {
+        "music_name": "鲨鱼",
+        "singer_name": "甜梨梨er",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002mdR8R29DLKX"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004OQ5Mt0EmEzv"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003DQTJm1TqM4o"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004AFs0i1Q4ZoL"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000Z3O6Y10EVyo"
+    },
+    {
+        "music_name": "大鱼 (伴奏)",
+        "singer_name": "汐柔",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wV9ie231HHe"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "强彧玺",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/002jWezJ3oaY5K"
+    },
+    {
+        "music_name": "在这个世界相遇",
+        "singer_name": "陈奕迅",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0001SFzi02ZZgb"
+    },
+    {
+        "music_name": "大鱼（钢琴+笛子） (Remix)",
+        "singer_name": "文武贝",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0048f6cD1kDEOC"
+    },
+    {
+        "music_name": "溯+大鱼 (remix: 马吟吟+周深|Remix)",
+        "singer_name": "一颗狼星",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Bvqxn2tzDoh"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙 (陈元汐)",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
+    }
+]

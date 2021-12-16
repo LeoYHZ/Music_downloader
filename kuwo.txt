@@ -1,0 +1,3989 @@
+[
+    {
+        "music_name": "告白の夜(Live)",
+        "singer_name": "Ayasa",
+        "music_url": "http://www.kuwo.cn/play_detail/143934197"
+    },
+    {
+        "music_name": "Ayasa",
+        "singer_name": "Elias Doré",
+        "music_url": "http://www.kuwo.cn/play_detail/65530380"
+    },
+    {
+        "music_name": "So Cold",
+        "singer_name": "Miko",
+        "music_url": "http://www.kuwo.cn/play_detail/193014897"
+    },
+    {
+        "music_name": "Running Back",
+        "singer_name": "Miko",
+        "music_url": "http://www.kuwo.cn/play_detail/193014928"
+    },
+    {
+        "music_name": "Rain",
+        "singer_name": "Miko",
+        "music_url": "http://www.kuwo.cn/play_detail/193014933"
+    },
+    {
+        "music_name": "極楽浄土",
+        "singer_name": "Ayasa",
+        "music_url": "http://www.kuwo.cn/play_detail/156265902"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "情人",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/141070855"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/90519"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/5062432"
+    },
+    {
+        "music_name": "情人(DJ散人版)",
+        "singer_name": "DJ散人&刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/52624028"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/664414"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "黄家驹",
+        "music_url": "http://www.kuwo.cn/play_detail/7283436"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "李荣浩",
+        "music_url": "http://www.kuwo.cn/play_detail/197635972"
+    },
+    {
+        "music_name": "情人(粤语版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/96238431"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/113034"
+    },
+    {
+        "music_name": "情人(dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4746337"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/157758281"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "G.E.M.邓紫棋",
+        "music_url": "http://www.kuwo.cn/play_detail/22860410"
+    },
+    {
+        "music_name": "情人(3D环绕版)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/169506508"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "张学友",
+        "music_url": "http://www.kuwo.cn/play_detail/157573"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/149479203"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "DJ小星星",
+        "music_url": "http://www.kuwo.cn/play_detail/7154891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "蔡徐坤&THE9-安崎&葛鑫怡&刘令姿&THE9-许佳琪&许馨文&许杨玉琢",
+        "music_url": "http://www.kuwo.cn/play_detail/141004358"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "林忆莲",
+        "music_url": "http://www.kuwo.cn/play_detail/38073533"
+    },
+    {
+        "music_name": "情人(CRAT Remix)",
+        "singer_name": "蔡徐坤",
+        "music_url": "http://www.kuwo.cn/play_detail/172159655"
+    },
+    {
+        "music_name": "情人(片段)",
+        "singer_name": "很美味",
+        "music_url": "http://www.kuwo.cn/play_detail/144763572"
+    },
+    {
+        "music_name": "情人 (吉特巴版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54234925"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "周蕙",
+        "music_url": "http://www.kuwo.cn/play_detail/9855871"
+    },
+    {
+        "music_name": "情人",
+        "singer_name": "张玮伽",
+        "music_url": "http://www.kuwo.cn/play_detail/6202025"
+    },
+    {
+        "music_name": "情人 (探戈舞版)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/54235058"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "杜德伟",
+        "music_url": "http://www.kuwo.cn/play_detail/26229985"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "万茜&伊能静&李斯丹妮&张雨绮&黄龄&金晨&张含韵",
+        "music_url": "http://www.kuwo.cn/play_detail/148098099"
+    },
+    {
+        "music_name": "情人(Remix)",
+        "singer_name": "刀郎",
+        "music_url": "http://www.kuwo.cn/play_detail/143657"
+    },
+    {
+        "music_name": "情人(粤语 Dj)",
+        "singer_name": "Beyond",
+        "music_url": "http://www.kuwo.cn/play_detail/4281891"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "严浩翔&蔡徐坤&贺峻霖",
+        "music_url": "http://www.kuwo.cn/play_detail/196358345"
+    },
+    {
+        "music_name": "情人(Live)",
+        "singer_name": "谭咏麟",
+        "music_url": "http://www.kuwo.cn/play_detail/559240"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/7095195"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/28661484"
+    },
+    {
+        "music_name": "宝藏女孩",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/158208916"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙（陈元汐）",
+        "music_url": "http://www.kuwo.cn/play_detail/9856669"
+    },
+    {
+        "music_name": "大鱼(唱片版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/30832369"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "于溪悦",
+        "music_url": "http://www.kuwo.cn/play_detail/173723158"
+    },
+    {
+        "music_name": "大鱼(3D环绕版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/154241107"
+    },
+    {
+        "music_name": "感谢在我生命里出席",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/96178523"
+    },
+    {
+        "music_name": "大鱼（钢琴曲）",
+        "singer_name": "博士说书",
+        "music_url": "http://www.kuwo.cn/play_detail/162573225"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/144100934"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/39986571"
+    },
+    {
+        "music_name": "大鱼（Cover 周深）",
+        "singer_name": "杜婧荧",
+        "music_url": "http://www.kuwo.cn/play_detail/28009067"
+    },
+    {
+        "music_name": "大鱼-",
+        "singer_name": "文武贝",
+        "music_url": "http://www.kuwo.cn/play_detail/27821154"
+    },
+    {
+        "music_name": "大鱼(片段)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/149821349"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "昼夜",
+        "music_url": "http://www.kuwo.cn/play_detail/78716306"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "郭沁&邢晗铭",
+        "music_url": "http://www.kuwo.cn/play_detail/192702067"
+    },
+    {
+        "music_name": "宝藏女孩(DJAilward版)",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/175707087"
+    },
+    {
+        "music_name": "大鱼(2021奔跑吧第五季现场)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/180915515"
+    },
+    {
+        "music_name": "大鱼（《大鱼海棠·印象曲》）",
+        "singer_name": "漆柚",
+        "music_url": "http://www.kuwo.cn/play_detail/28024859"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "http://www.kuwo.cn/play_detail/155324394"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "何小樂",
+        "music_url": "http://www.kuwo.cn/play_detail/56988010"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "赵超",
+        "music_url": "http://www.kuwo.cn/play_detail/53974100"
+    },
+    {
+        "music_name": "大鱼 (cover: 周深)",
+        "singer_name": "J.H.赵昕",
+        "music_url": "http://www.kuwo.cn/play_detail/140019482"
+    },
+    {
+        "music_name": "大鱼（cover.周深）双声道念白",
+        "singer_name": "Mukyo木西",
+        "music_url": "http://www.kuwo.cn/play_detail/27837411"
+    },
+    {
+        "music_name": "大鱼(纯音乐)",
+        "singer_name": "马天",
+        "music_url": "http://www.kuwo.cn/play_detail/142284598"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "冯提莫",
+        "music_url": "http://www.kuwo.cn/play_detail/27903401"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "杨珺远",
+        "music_url": "http://www.kuwo.cn/play_detail/88038476"
+    },
+    {
+        "music_name": "大鱼 (翻奏: 周深)",
+        "singer_name": "子宇",
+        "music_url": "http://www.kuwo.cn/play_detail/158614261"
+    },
+    {
+        "music_name": "大鱼(古筝)",
+        "singer_name": "杨静蕾",
+        "music_url": "http://www.kuwo.cn/play_detail/72236413"
+    },
+    {
+        "music_name": "大鱼(抖音钢琴版)",
+        "singer_name": "一只小耳朵",
+        "music_url": "http://www.kuwo.cn/play_detail/195959083"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/7095195"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/28661484"
+    },
+    {
+        "music_name": "宝藏女孩",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/158208916"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙（陈元汐）",
+        "music_url": "http://www.kuwo.cn/play_detail/9856669"
+    },
+    {
+        "music_name": "大鱼(唱片版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/30832369"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "于溪悦",
+        "music_url": "http://www.kuwo.cn/play_detail/173723158"
+    },
+    {
+        "music_name": "大鱼(3D环绕版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/154241107"
+    },
+    {
+        "music_name": "感谢在我生命里出席",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/96178523"
+    },
+    {
+        "music_name": "大鱼（钢琴曲）",
+        "singer_name": "博士说书",
+        "music_url": "http://www.kuwo.cn/play_detail/162573225"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/144100934"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/39986571"
+    },
+    {
+        "music_name": "大鱼（Cover 周深）",
+        "singer_name": "杜婧荧",
+        "music_url": "http://www.kuwo.cn/play_detail/28009067"
+    },
+    {
+        "music_name": "大鱼-",
+        "singer_name": "文武贝",
+        "music_url": "http://www.kuwo.cn/play_detail/27821154"
+    },
+    {
+        "music_name": "大鱼(片段)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/149821349"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "昼夜",
+        "music_url": "http://www.kuwo.cn/play_detail/78716306"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "郭沁&邢晗铭",
+        "music_url": "http://www.kuwo.cn/play_detail/192702067"
+    },
+    {
+        "music_name": "宝藏女孩(DJAilward版)",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/175707087"
+    },
+    {
+        "music_name": "大鱼(2021奔跑吧第五季现场)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/180915515"
+    },
+    {
+        "music_name": "大鱼（《大鱼海棠·印象曲》）",
+        "singer_name": "漆柚",
+        "music_url": "http://www.kuwo.cn/play_detail/28024859"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "http://www.kuwo.cn/play_detail/155324394"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "何小樂",
+        "music_url": "http://www.kuwo.cn/play_detail/56988010"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "赵超",
+        "music_url": "http://www.kuwo.cn/play_detail/53974100"
+    },
+    {
+        "music_name": "大鱼 (cover: 周深)",
+        "singer_name": "J.H.赵昕",
+        "music_url": "http://www.kuwo.cn/play_detail/140019482"
+    },
+    {
+        "music_name": "大鱼（cover.周深）双声道念白",
+        "singer_name": "Mukyo木西",
+        "music_url": "http://www.kuwo.cn/play_detail/27837411"
+    },
+    {
+        "music_name": "大鱼(纯音乐)",
+        "singer_name": "马天",
+        "music_url": "http://www.kuwo.cn/play_detail/142284598"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "冯提莫",
+        "music_url": "http://www.kuwo.cn/play_detail/27903401"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "杨珺远",
+        "music_url": "http://www.kuwo.cn/play_detail/88038476"
+    },
+    {
+        "music_name": "大鱼 (翻奏: 周深)",
+        "singer_name": "子宇",
+        "music_url": "http://www.kuwo.cn/play_detail/158614261"
+    },
+    {
+        "music_name": "大鱼(古筝)",
+        "singer_name": "杨静蕾",
+        "music_url": "http://www.kuwo.cn/play_detail/72236413"
+    },
+    {
+        "music_name": "大鱼(抖音钢琴版)",
+        "singer_name": "一只小耳朵",
+        "music_url": "http://www.kuwo.cn/play_detail/195959083"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/7095195"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/28661484"
+    },
+    {
+        "music_name": "宝藏女孩",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/158208916"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙（陈元汐）",
+        "music_url": "http://www.kuwo.cn/play_detail/9856669"
+    },
+    {
+        "music_name": "大鱼(唱片版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/30832369"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "于溪悦",
+        "music_url": "http://www.kuwo.cn/play_detail/173723158"
+    },
+    {
+        "music_name": "大鱼(3D环绕版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/154241107"
+    },
+    {
+        "music_name": "感谢在我生命里出席",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/96178523"
+    },
+    {
+        "music_name": "大鱼（钢琴曲）",
+        "singer_name": "博士说书",
+        "music_url": "http://www.kuwo.cn/play_detail/162573225"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/144100934"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/39986571"
+    },
+    {
+        "music_name": "大鱼（Cover 周深）",
+        "singer_name": "杜婧荧",
+        "music_url": "http://www.kuwo.cn/play_detail/28009067"
+    },
+    {
+        "music_name": "大鱼-",
+        "singer_name": "文武贝",
+        "music_url": "http://www.kuwo.cn/play_detail/27821154"
+    },
+    {
+        "music_name": "大鱼(片段)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/149821349"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "昼夜",
+        "music_url": "http://www.kuwo.cn/play_detail/78716306"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "郭沁&邢晗铭",
+        "music_url": "http://www.kuwo.cn/play_detail/192702067"
+    },
+    {
+        "music_name": "宝藏女孩(DJAilward版)",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/175707087"
+    },
+    {
+        "music_name": "大鱼(2021奔跑吧第五季现场)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/180915515"
+    },
+    {
+        "music_name": "大鱼（《大鱼海棠·印象曲》）",
+        "singer_name": "漆柚",
+        "music_url": "http://www.kuwo.cn/play_detail/28024859"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "http://www.kuwo.cn/play_detail/155324394"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "何小樂",
+        "music_url": "http://www.kuwo.cn/play_detail/56988010"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "赵超",
+        "music_url": "http://www.kuwo.cn/play_detail/53974100"
+    },
+    {
+        "music_name": "大鱼 (cover: 周深)",
+        "singer_name": "J.H.赵昕",
+        "music_url": "http://www.kuwo.cn/play_detail/140019482"
+    },
+    {
+        "music_name": "大鱼（cover.周深）双声道念白",
+        "singer_name": "Mukyo木西",
+        "music_url": "http://www.kuwo.cn/play_detail/27837411"
+    },
+    {
+        "music_name": "大鱼(纯音乐)",
+        "singer_name": "马天",
+        "music_url": "http://www.kuwo.cn/play_detail/142284598"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "冯提莫",
+        "music_url": "http://www.kuwo.cn/play_detail/27903401"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "杨珺远",
+        "music_url": "http://www.kuwo.cn/play_detail/88038476"
+    },
+    {
+        "music_name": "大鱼 (翻奏: 周深)",
+        "singer_name": "子宇",
+        "music_url": "http://www.kuwo.cn/play_detail/158614261"
+    },
+    {
+        "music_name": "大鱼(古筝)",
+        "singer_name": "杨静蕾",
+        "music_url": "http://www.kuwo.cn/play_detail/72236413"
+    },
+    {
+        "music_name": "大鱼(抖音钢琴版)",
+        "singer_name": "一只小耳朵",
+        "music_url": "http://www.kuwo.cn/play_detail/195959083"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/7095195"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/28661484"
+    },
+    {
+        "music_name": "宝藏女孩",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/158208916"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙（陈元汐）",
+        "music_url": "http://www.kuwo.cn/play_detail/9856669"
+    },
+    {
+        "music_name": "大鱼(唱片版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/30832369"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "于溪悦",
+        "music_url": "http://www.kuwo.cn/play_detail/173723158"
+    },
+    {
+        "music_name": "大鱼(3D环绕版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/154241107"
+    },
+    {
+        "music_name": "感谢在我生命里出席",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/96178523"
+    },
+    {
+        "music_name": "大鱼（钢琴曲）",
+        "singer_name": "博士说书",
+        "music_url": "http://www.kuwo.cn/play_detail/162573225"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/144100934"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/39986571"
+    },
+    {
+        "music_name": "大鱼（Cover 周深）",
+        "singer_name": "杜婧荧",
+        "music_url": "http://www.kuwo.cn/play_detail/28009067"
+    },
+    {
+        "music_name": "大鱼-",
+        "singer_name": "文武贝",
+        "music_url": "http://www.kuwo.cn/play_detail/27821154"
+    },
+    {
+        "music_name": "大鱼(片段)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/149821349"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "昼夜",
+        "music_url": "http://www.kuwo.cn/play_detail/78716306"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "郭沁&邢晗铭",
+        "music_url": "http://www.kuwo.cn/play_detail/192702067"
+    },
+    {
+        "music_name": "宝藏女孩(DJAilward版)",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/175707087"
+    },
+    {
+        "music_name": "大鱼(2021奔跑吧第五季现场)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/180915515"
+    },
+    {
+        "music_name": "大鱼（《大鱼海棠·印象曲》）",
+        "singer_name": "漆柚",
+        "music_url": "http://www.kuwo.cn/play_detail/28024859"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "http://www.kuwo.cn/play_detail/155324394"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "何小樂",
+        "music_url": "http://www.kuwo.cn/play_detail/56988010"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "赵超",
+        "music_url": "http://www.kuwo.cn/play_detail/53974100"
+    },
+    {
+        "music_name": "大鱼 (cover: 周深)",
+        "singer_name": "J.H.赵昕",
+        "music_url": "http://www.kuwo.cn/play_detail/140019482"
+    },
+    {
+        "music_name": "大鱼（cover.周深）双声道念白",
+        "singer_name": "Mukyo木西",
+        "music_url": "http://www.kuwo.cn/play_detail/27837411"
+    },
+    {
+        "music_name": "大鱼(纯音乐)",
+        "singer_name": "马天",
+        "music_url": "http://www.kuwo.cn/play_detail/142284598"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "冯提莫",
+        "music_url": "http://www.kuwo.cn/play_detail/27903401"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "杨珺远",
+        "music_url": "http://www.kuwo.cn/play_detail/88038476"
+    },
+    {
+        "music_name": "大鱼 (翻奏: 周深)",
+        "singer_name": "子宇",
+        "music_url": "http://www.kuwo.cn/play_detail/158614261"
+    },
+    {
+        "music_name": "大鱼(古筝)",
+        "singer_name": "杨静蕾",
+        "music_url": "http://www.kuwo.cn/play_detail/72236413"
+    },
+    {
+        "music_name": "大鱼(抖音钢琴版)",
+        "singer_name": "一只小耳朵",
+        "music_url": "http://www.kuwo.cn/play_detail/195959083"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/7095195"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/28661484"
+    },
+    {
+        "music_name": "宝藏女孩",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/158208916"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙（陈元汐）",
+        "music_url": "http://www.kuwo.cn/play_detail/9856669"
+    },
+    {
+        "music_name": "大鱼(唱片版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/30832369"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "于溪悦",
+        "music_url": "http://www.kuwo.cn/play_detail/173723158"
+    },
+    {
+        "music_name": "大鱼(3D环绕版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/154241107"
+    },
+    {
+        "music_name": "感谢在我生命里出席",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/96178523"
+    },
+    {
+        "music_name": "大鱼（钢琴曲）",
+        "singer_name": "博士说书",
+        "music_url": "http://www.kuwo.cn/play_detail/162573225"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/144100934"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/39986571"
+    },
+    {
+        "music_name": "大鱼（Cover 周深）",
+        "singer_name": "杜婧荧",
+        "music_url": "http://www.kuwo.cn/play_detail/28009067"
+    },
+    {
+        "music_name": "大鱼-",
+        "singer_name": "文武贝",
+        "music_url": "http://www.kuwo.cn/play_detail/27821154"
+    },
+    {
+        "music_name": "大鱼(片段)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/149821349"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "昼夜",
+        "music_url": "http://www.kuwo.cn/play_detail/78716306"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "郭沁&邢晗铭",
+        "music_url": "http://www.kuwo.cn/play_detail/192702067"
+    },
+    {
+        "music_name": "宝藏女孩(DJAilward版)",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/175707087"
+    },
+    {
+        "music_name": "大鱼(2021奔跑吧第五季现场)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/180915515"
+    },
+    {
+        "music_name": "大鱼（《大鱼海棠·印象曲》）",
+        "singer_name": "漆柚",
+        "music_url": "http://www.kuwo.cn/play_detail/28024859"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "http://www.kuwo.cn/play_detail/155324394"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "何小樂",
+        "music_url": "http://www.kuwo.cn/play_detail/56988010"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "赵超",
+        "music_url": "http://www.kuwo.cn/play_detail/53974100"
+    },
+    {
+        "music_name": "大鱼 (cover: 周深)",
+        "singer_name": "J.H.赵昕",
+        "music_url": "http://www.kuwo.cn/play_detail/140019482"
+    },
+    {
+        "music_name": "大鱼（cover.周深）双声道念白",
+        "singer_name": "Mukyo木西",
+        "music_url": "http://www.kuwo.cn/play_detail/27837411"
+    },
+    {
+        "music_name": "大鱼(纯音乐)",
+        "singer_name": "马天",
+        "music_url": "http://www.kuwo.cn/play_detail/142284598"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "冯提莫",
+        "music_url": "http://www.kuwo.cn/play_detail/27903401"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "杨珺远",
+        "music_url": "http://www.kuwo.cn/play_detail/88038476"
+    },
+    {
+        "music_name": "大鱼 (翻奏: 周深)",
+        "singer_name": "子宇",
+        "music_url": "http://www.kuwo.cn/play_detail/158614261"
+    },
+    {
+        "music_name": "大鱼(古筝)",
+        "singer_name": "杨静蕾",
+        "music_url": "http://www.kuwo.cn/play_detail/72236413"
+    },
+    {
+        "music_name": "大鱼(抖音钢琴版)",
+        "singer_name": "一只小耳朵",
+        "music_url": "http://www.kuwo.cn/play_detail/195959083"
+    }
+][
+    {
+        "music_name": "告白の夜(Live)",
+        "singer_name": "Ayasa",
+        "music_url": "http://www.kuwo.cn/play_detail/143934197"
+    },
+    {
+        "music_name": "Ayasa",
+        "singer_name": "Elias Doré",
+        "music_url": "http://www.kuwo.cn/play_detail/65530380"
+    },
+    {
+        "music_name": "So Cold",
+        "singer_name": "Miko",
+        "music_url": "http://www.kuwo.cn/play_detail/193014897"
+    },
+    {
+        "music_name": "Running Back",
+        "singer_name": "Miko",
+        "music_url": "http://www.kuwo.cn/play_detail/193014928"
+    },
+    {
+        "music_name": "Rain",
+        "singer_name": "Miko",
+        "music_url": "http://www.kuwo.cn/play_detail/193014933"
+    },
+    {
+        "music_name": "極楽浄土",
+        "singer_name": "Ayasa",
+        "music_url": "http://www.kuwo.cn/play_detail/156265902"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/7095195"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/28661484"
+    },
+    {
+        "music_name": "宝藏女孩",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/158208916"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙（陈元汐）",
+        "music_url": "http://www.kuwo.cn/play_detail/9856669"
+    },
+    {
+        "music_name": "大鱼(唱片版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/30832369"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "于溪悦",
+        "music_url": "http://www.kuwo.cn/play_detail/173723158"
+    },
+    {
+        "music_name": "大鱼(3D环绕版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/154241107"
+    },
+    {
+        "music_name": "感谢在我生命里出席",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/96178523"
+    },
+    {
+        "music_name": "大鱼（钢琴曲）",
+        "singer_name": "博士说书",
+        "music_url": "http://www.kuwo.cn/play_detail/162573225"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/144100934"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/39986571"
+    },
+    {
+        "music_name": "大鱼（Cover 周深）",
+        "singer_name": "杜婧荧",
+        "music_url": "http://www.kuwo.cn/play_detail/28009067"
+    },
+    {
+        "music_name": "大鱼-",
+        "singer_name": "文武贝",
+        "music_url": "http://www.kuwo.cn/play_detail/27821154"
+    },
+    {
+        "music_name": "大鱼(片段)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/149821349"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "昼夜",
+        "music_url": "http://www.kuwo.cn/play_detail/78716306"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "郭沁&邢晗铭",
+        "music_url": "http://www.kuwo.cn/play_detail/192702067"
+    },
+    {
+        "music_name": "宝藏女孩(DJAilward版)",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/175707087"
+    },
+    {
+        "music_name": "大鱼(2021奔跑吧第五季现场)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/180915515"
+    },
+    {
+        "music_name": "大鱼（《大鱼海棠·印象曲》）",
+        "singer_name": "漆柚",
+        "music_url": "http://www.kuwo.cn/play_detail/28024859"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "http://www.kuwo.cn/play_detail/155324394"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "何小樂",
+        "music_url": "http://www.kuwo.cn/play_detail/56988010"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "赵超",
+        "music_url": "http://www.kuwo.cn/play_detail/53974100"
+    },
+    {
+        "music_name": "大鱼 (cover: 周深)",
+        "singer_name": "J.H.赵昕",
+        "music_url": "http://www.kuwo.cn/play_detail/140019482"
+    },
+    {
+        "music_name": "大鱼（cover.周深）双声道念白",
+        "singer_name": "Mukyo木西",
+        "music_url": "http://www.kuwo.cn/play_detail/27837411"
+    },
+    {
+        "music_name": "大鱼(纯音乐)",
+        "singer_name": "马天",
+        "music_url": "http://www.kuwo.cn/play_detail/142284598"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "冯提莫",
+        "music_url": "http://www.kuwo.cn/play_detail/27903401"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "杨珺远",
+        "music_url": "http://www.kuwo.cn/play_detail/88038476"
+    },
+    {
+        "music_name": "大鱼 (翻奏: 周深)",
+        "singer_name": "子宇",
+        "music_url": "http://www.kuwo.cn/play_detail/158614261"
+    },
+    {
+        "music_name": "大鱼(古筝)",
+        "singer_name": "杨静蕾",
+        "music_url": "http://www.kuwo.cn/play_detail/72236413"
+    },
+    {
+        "music_name": "大鱼(抖音钢琴版)",
+        "singer_name": "一只小耳朵",
+        "music_url": "http://www.kuwo.cn/play_detail/195959083"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/7095195"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/28661484"
+    },
+    {
+        "music_name": "宝藏女孩",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/158208916"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙（陈元汐）",
+        "music_url": "http://www.kuwo.cn/play_detail/9856669"
+    },
+    {
+        "music_name": "大鱼(唱片版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/30832369"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "于溪悦",
+        "music_url": "http://www.kuwo.cn/play_detail/173723158"
+    },
+    {
+        "music_name": "大鱼(3D环绕版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/154241107"
+    },
+    {
+        "music_name": "感谢在我生命里出席",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/96178523"
+    },
+    {
+        "music_name": "大鱼（钢琴曲）",
+        "singer_name": "博士说书",
+        "music_url": "http://www.kuwo.cn/play_detail/162573225"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/144100934"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/39986571"
+    },
+    {
+        "music_name": "大鱼（Cover 周深）",
+        "singer_name": "杜婧荧",
+        "music_url": "http://www.kuwo.cn/play_detail/28009067"
+    },
+    {
+        "music_name": "大鱼-",
+        "singer_name": "文武贝",
+        "music_url": "http://www.kuwo.cn/play_detail/27821154"
+    },
+    {
+        "music_name": "大鱼(片段)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/149821349"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "昼夜",
+        "music_url": "http://www.kuwo.cn/play_detail/78716306"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "郭沁&邢晗铭",
+        "music_url": "http://www.kuwo.cn/play_detail/192702067"
+    },
+    {
+        "music_name": "宝藏女孩(DJAilward版)",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/175707087"
+    },
+    {
+        "music_name": "大鱼(2021奔跑吧第五季现场)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/180915515"
+    },
+    {
+        "music_name": "大鱼（《大鱼海棠·印象曲》）",
+        "singer_name": "漆柚",
+        "music_url": "http://www.kuwo.cn/play_detail/28024859"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "http://www.kuwo.cn/play_detail/155324394"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "何小樂",
+        "music_url": "http://www.kuwo.cn/play_detail/56988010"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "赵超",
+        "music_url": "http://www.kuwo.cn/play_detail/53974100"
+    },
+    {
+        "music_name": "大鱼 (cover: 周深)",
+        "singer_name": "J.H.赵昕",
+        "music_url": "http://www.kuwo.cn/play_detail/140019482"
+    },
+    {
+        "music_name": "大鱼（cover.周深）双声道念白",
+        "singer_name": "Mukyo木西",
+        "music_url": "http://www.kuwo.cn/play_detail/27837411"
+    },
+    {
+        "music_name": "大鱼(纯音乐)",
+        "singer_name": "马天",
+        "music_url": "http://www.kuwo.cn/play_detail/142284598"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "冯提莫",
+        "music_url": "http://www.kuwo.cn/play_detail/27903401"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "杨珺远",
+        "music_url": "http://www.kuwo.cn/play_detail/88038476"
+    },
+    {
+        "music_name": "大鱼 (翻奏: 周深)",
+        "singer_name": "子宇",
+        "music_url": "http://www.kuwo.cn/play_detail/158614261"
+    },
+    {
+        "music_name": "大鱼(古筝)",
+        "singer_name": "杨静蕾",
+        "music_url": "http://www.kuwo.cn/play_detail/72236413"
+    },
+    {
+        "music_name": "大鱼(抖音钢琴版)",
+        "singer_name": "一只小耳朵",
+        "music_url": "http://www.kuwo.cn/play_detail/195959083"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/7095195"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/28661484"
+    },
+    {
+        "music_name": "宝藏女孩",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/158208916"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙（陈元汐）",
+        "music_url": "http://www.kuwo.cn/play_detail/9856669"
+    },
+    {
+        "music_name": "大鱼(唱片版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/30832369"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "于溪悦",
+        "music_url": "http://www.kuwo.cn/play_detail/173723158"
+    },
+    {
+        "music_name": "大鱼(3D环绕版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/154241107"
+    },
+    {
+        "music_name": "感谢在我生命里出席",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/96178523"
+    },
+    {
+        "music_name": "大鱼（钢琴曲）",
+        "singer_name": "博士说书",
+        "music_url": "http://www.kuwo.cn/play_detail/162573225"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/144100934"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/39986571"
+    },
+    {
+        "music_name": "大鱼（Cover 周深）",
+        "singer_name": "杜婧荧",
+        "music_url": "http://www.kuwo.cn/play_detail/28009067"
+    },
+    {
+        "music_name": "大鱼-",
+        "singer_name": "文武贝",
+        "music_url": "http://www.kuwo.cn/play_detail/27821154"
+    },
+    {
+        "music_name": "大鱼(片段)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/149821349"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "昼夜",
+        "music_url": "http://www.kuwo.cn/play_detail/78716306"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "郭沁&邢晗铭",
+        "music_url": "http://www.kuwo.cn/play_detail/192702067"
+    },
+    {
+        "music_name": "宝藏女孩(DJAilward版)",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/175707087"
+    },
+    {
+        "music_name": "大鱼(2021奔跑吧第五季现场)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/180915515"
+    },
+    {
+        "music_name": "大鱼（《大鱼海棠·印象曲》）",
+        "singer_name": "漆柚",
+        "music_url": "http://www.kuwo.cn/play_detail/28024859"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "http://www.kuwo.cn/play_detail/155324394"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "何小樂",
+        "music_url": "http://www.kuwo.cn/play_detail/56988010"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "赵超",
+        "music_url": "http://www.kuwo.cn/play_detail/53974100"
+    },
+    {
+        "music_name": "大鱼 (cover: 周深)",
+        "singer_name": "J.H.赵昕",
+        "music_url": "http://www.kuwo.cn/play_detail/140019482"
+    },
+    {
+        "music_name": "大鱼（cover.周深）双声道念白",
+        "singer_name": "Mukyo木西",
+        "music_url": "http://www.kuwo.cn/play_detail/27837411"
+    },
+    {
+        "music_name": "大鱼(纯音乐)",
+        "singer_name": "马天",
+        "music_url": "http://www.kuwo.cn/play_detail/142284598"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "冯提莫",
+        "music_url": "http://www.kuwo.cn/play_detail/27903401"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "杨珺远",
+        "music_url": "http://www.kuwo.cn/play_detail/88038476"
+    },
+    {
+        "music_name": "大鱼 (翻奏: 周深)",
+        "singer_name": "子宇",
+        "music_url": "http://www.kuwo.cn/play_detail/158614261"
+    },
+    {
+        "music_name": "大鱼(古筝)",
+        "singer_name": "杨静蕾",
+        "music_url": "http://www.kuwo.cn/play_detail/72236413"
+    },
+    {
+        "music_name": "大鱼(抖音钢琴版)",
+        "singer_name": "一只小耳朵",
+        "music_url": "http://www.kuwo.cn/play_detail/195959083"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/7095195"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/28661484"
+    },
+    {
+        "music_name": "宝藏女孩",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/158208916"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "于溪悦",
+        "music_url": "http://www.kuwo.cn/play_detail/173723158"
+    },
+    {
+        "music_name": "大鱼(唱片版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/30832369"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙（陈元汐）",
+        "music_url": "http://www.kuwo.cn/play_detail/9856669"
+    },
+    {
+        "music_name": "大鱼(3D环绕版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/154241107"
+    },
+    {
+        "music_name": "感谢在我生命里出席",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/96178523"
+    },
+    {
+        "music_name": "大鱼（钢琴曲）",
+        "singer_name": "博士说书",
+        "music_url": "http://www.kuwo.cn/play_detail/162573225"
+    },
+    {
+        "music_name": "大鱼（Cover 周深）",
+        "singer_name": "杜婧荧",
+        "music_url": "http://www.kuwo.cn/play_detail/28009067"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/39986571"
+    },
+    {
+        "music_name": "大鱼(片段)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/149821349"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/144100934"
+    },
+    {
+        "music_name": "大鱼-",
+        "singer_name": "文武贝",
+        "music_url": "http://www.kuwo.cn/play_detail/27821154"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "昼夜",
+        "music_url": "http://www.kuwo.cn/play_detail/78716306"
+    },
+    {
+        "music_name": "大鱼 (cover: 周深)",
+        "singer_name": "吴苏芯",
+        "music_url": "http://www.kuwo.cn/play_detail/148986991"
+    },
+    {
+        "music_name": "大鱼（《大鱼海棠·印象曲》）",
+        "singer_name": "漆柚",
+        "music_url": "http://www.kuwo.cn/play_detail/28024859"
+    },
+    {
+        "music_name": "大鱼(纯音乐)",
+        "singer_name": "马天",
+        "music_url": "http://www.kuwo.cn/play_detail/142284598"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "郭沁&邢晗铭",
+        "music_url": "http://www.kuwo.cn/play_detail/192702067"
+    },
+    {
+        "music_name": "宝藏女孩(DJAilward版)",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/175707087"
+    },
+    {
+        "music_name": "大鱼(2021奔跑吧第五季现场)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/180915515"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "何小樂",
+        "music_url": "http://www.kuwo.cn/play_detail/56988010"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "纯音乐",
+        "music_url": "http://www.kuwo.cn/play_detail/196001801"
+    },
+    {
+        "music_name": "大鱼 (翻奏: 周深)",
+        "singer_name": "子宇",
+        "music_url": "http://www.kuwo.cn/play_detail/158614261"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "赵超",
+        "music_url": "http://www.kuwo.cn/play_detail/53974100"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "http://www.kuwo.cn/play_detail/155324394"
+    },
+    {
+        "music_name": "大鱼(古筝)",
+        "singer_name": "杨静蕾",
+        "music_url": "http://www.kuwo.cn/play_detail/72236413"
+    },
+    {
+        "music_name": "大鱼 (cover: 周深)",
+        "singer_name": "J.H.赵昕",
+        "music_url": "http://www.kuwo.cn/play_detail/140019482"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "冯提莫",
+        "music_url": "http://www.kuwo.cn/play_detail/27903401"
+    },
+    {
+        "music_name": "大鱼（cover.周深）双声道念白",
+        "singer_name": "Mukyo木西",
+        "music_url": "http://www.kuwo.cn/play_detail/27837411"
+    }
+]
