@@ -3986,4 +3986,155 @@
         "singer_name": "Mukyo木西",
         "music_url": "http://www.kuwo.cn/play_detail/27837411"
     }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/7095195"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/28661484"
+    },
+    {
+        "music_name": "宝藏女孩",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/158208916"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "于溪悦",
+        "music_url": "http://www.kuwo.cn/play_detail/173723158"
+    },
+    {
+        "music_name": "大鱼(唱片版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/30832369"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙（陈元汐）",
+        "music_url": "http://www.kuwo.cn/play_detail/9856669"
+    },
+    {
+        "music_name": "大鱼(3D环绕版)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/154241107"
+    },
+    {
+        "music_name": "感谢在我生命里出席",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/96178523"
+    },
+    {
+        "music_name": "大鱼（钢琴曲）",
+        "singer_name": "博士说书",
+        "music_url": "http://www.kuwo.cn/play_detail/162573225"
+    },
+    {
+        "music_name": "大鱼（Cover 周深）",
+        "singer_name": "杜婧荧",
+        "music_url": "http://www.kuwo.cn/play_detail/28009067"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/39986571"
+    },
+    {
+        "music_name": "大鱼(片段)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/149821349"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深&郭沁",
+        "music_url": "http://www.kuwo.cn/play_detail/144100934"
+    },
+    {
+        "music_name": "大鱼-",
+        "singer_name": "文武贝",
+        "music_url": "http://www.kuwo.cn/play_detail/27821154"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "昼夜",
+        "music_url": "http://www.kuwo.cn/play_detail/78716306"
+    },
+    {
+        "music_name": "大鱼 (cover: 周深)",
+        "singer_name": "吴苏芯",
+        "music_url": "http://www.kuwo.cn/play_detail/148986991"
+    },
+    {
+        "music_name": "大鱼（《大鱼海棠·印象曲》）",
+        "singer_name": "漆柚",
+        "music_url": "http://www.kuwo.cn/play_detail/28024859"
+    },
+    {
+        "music_name": "大鱼(纯音乐)",
+        "singer_name": "马天",
+        "music_url": "http://www.kuwo.cn/play_detail/142284598"
+    },
+    {
+        "music_name": "大鱼(Live)",
+        "singer_name": "郭沁&邢晗铭",
+        "music_url": "http://www.kuwo.cn/play_detail/192702067"
+    },
+    {
+        "music_name": "宝藏女孩(DJAilward版)",
+        "singer_name": "大鱼",
+        "music_url": "http://www.kuwo.cn/play_detail/175707087"
+    },
+    {
+        "music_name": "大鱼(2021奔跑吧第五季现场)",
+        "singer_name": "周深",
+        "music_url": "http://www.kuwo.cn/play_detail/180915515"
+    },
+    {
+        "music_name": "大鱼（钢琴版）",
+        "singer_name": "何小樂",
+        "music_url": "http://www.kuwo.cn/play_detail/56988010"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "纯音乐",
+        "music_url": "http://www.kuwo.cn/play_detail/196001801"
+    },
+    {
+        "music_name": "大鱼 (翻奏: 周深)",
+        "singer_name": "子宇",
+        "music_url": "http://www.kuwo.cn/play_detail/158614261"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "赵超",
+        "music_url": "http://www.kuwo.cn/play_detail/53974100"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "May Pian",
+        "music_url": "http://www.kuwo.cn/play_detail/155324394"
+    },
+    {
+        "music_name": "大鱼(古筝)",
+        "singer_name": "杨静蕾",
+        "music_url": "http://www.kuwo.cn/play_detail/72236413"
+    },
+    {
+        "music_name": "大鱼 (cover: 周深)",
+        "singer_name": "J.H.赵昕",
+        "music_url": "http://www.kuwo.cn/play_detail/140019482"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "冯提莫",
+        "music_url": "http://www.kuwo.cn/play_detail/27903401"
+    },
+    {
+        "music_name": "大鱼（cover.周深）双声道念白",
+        "singer_name": "Mukyo木西",
+        "music_url": "http://www.kuwo.cn/play_detail/27837411"
+    }
 ]

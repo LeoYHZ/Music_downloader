@@ -48,6 +48,7 @@ if __name__ == "__main__":
                     print(music_detial["music_name"] + " - " + music_detial["singer_name"] + " - 下载链接：" + music_audio_url)
                     webbrowser.open(music_audio_url)
 
+
             else:
                 print("输入下载序号出错，程序停止！")
         except:

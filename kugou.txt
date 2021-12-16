@@ -8605,4 +8605,457 @@
         "singer_name": "周深",
         "music_url": "https://www.kugou.com/song/#hash=5D08130E6A462E93F5DBD7EF19F23949&album_id=8259953"
     }
+][
+    {
+        "music_name": "極楽浄土",
+        "singer_name": "Ayasa",
+        "music_url": "https://www.kugou.com/song/#hash=C715FC0739EDDFD890109D6C0CBBB246"
+    },
+    {
+        "music_name": "バイブレーション",
+        "singer_name": "Ayasa",
+        "music_url": "https://www.kugou.com/song/#hash=2933C1A8E7CA55185624D6982D51EE08&album_id=26228828"
+    },
+    {
+        "music_name": "上",
+        "singer_name": "Ayasa",
+        "music_url": "https://www.kugou.com/song/#hash=854C6D4049337C2D3867B4E2F2CAA223&album_id=26228828"
+    },
+    {
+        "music_name": "Ayasa",
+        "singer_name": "Elias Doré",
+        "music_url": "https://www.kugou.com/song/#hash=6AE3D82C5CCDC1E3F8FCD290474181A7&album_id=17174567"
+    },
+    {
+        "music_name": "COLORS",
+        "singer_name": "Ayasa",
+        "music_url": "https://www.kugou.com/song/#hash=018A3689E4C1939F7DB497EB1BB05318"
+    },
+    {
+        "music_name": "告白の夜 (告白之夜)(Live)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=09C6F1B5C2555FEABCE294F71946A494&album_id=8444455"
+    },
+    {
+        "music_name": "告白の夜 (告白之夜)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=A86F9068FEC5C129D16E239A9C049795&album_id=8333562"
+    },
+    {
+        "music_name": "告白の夜 (Live version)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=91BAA7CB7B9E664844CD1432E330B147&album_id=26044647"
+    },
+    {
+        "music_name": "我爱你 (Live)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=1D888E3845ED130467CFF25DD6187DFC"
+    },
+    {
+        "music_name": "我愛你",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=BFF30FD1170569F53F9448D53D3EF24B&album_id=15786549"
+    },
+    {
+        "music_name": "Lemon (小提琴版)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=3443A4D5349F0E8C7A00EB6C45B4129E"
+    },
+    {
+        "music_name": "渡月桥思君 (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=751E05E5C29F7FDFB12B9021095D6074&album_id=15141968"
+    },
+    {
+        "music_name": "lemon (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=5110D179E8438A62C79D89CA7418AAC9&album_id=15141968"
+    },
+    {
+        "music_name": "打上花火 (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=E5C925004E665086AEED9F7ACF70E375&album_id=15141968"
+    },
+    {
+        "music_name": "千本樱 (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=79EB74B2D98BAF2057DD6886F870A16F&album_id=15141968"
+    },
+    {
+        "music_name": "红莲的弓矢 (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=62C17F2DACF9BBF881AFCF701B37E526&album_id=15141968"
+    },
+    {
+        "music_name": "aLIEz (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=A898B8CA15CF45F59C493C7FAEEBC284&album_id=15141968"
+    },
+    {
+        "music_name": "海阔天空 (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=29B975A2357F03E28653A5D1B58724B2&album_id=15141968"
+    },
+    {
+        "music_name": "蝶恋花﹒何处谣",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=AEE42A5AAC13F2AAF48AA46AD9BBA4F4&album_id=19139262"
+    },
+    {
+        "music_name": "小提琴版《极乐净土》",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=669ADB7278DDF0AF1E68AF9C5A52B285"
+    },
+    {
+        "music_name": "only my railgun (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=2F2FABF657AD0BAA9ACDCC2A6B7BB3D1&album_id=15141968"
+    },
+    {
+        "music_name": "前前前世",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=4FF33BEAEE4A56808DC242709D1AA9B9&album_id=15141968"
+    },
+    {
+        "music_name": "威风堂堂 (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=D9E03BA2DC96AB4558300F93647A07D2&album_id=15289993"
+    },
+    {
+        "music_name": "My Dearest (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=9336844E797EC69C1FDF1518EC6DFFC5&album_id=15141968"
+    },
+    {
+        "music_name": "极乐净土 (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=669ADB7278DDF0AF1E68AF9C5A52B285&album_id=15141968"
+    },
+    {
+        "music_name": "《四月是你的谎言》OP《若能绽放光芒》",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=25EFBC8A568A201E20B21D5577D3F505"
+    },
+    {
+        "music_name": "Re:Birth",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=33EEE7A046A815C4D146D78F5E22260E&album_id=15786549"
+    },
+    {
+        "music_name": "我爱你 (片段)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=81CE99388D5C197F5A541BE6936089F6"
+    },
+    {
+        "music_name": "ninelie (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=FF44F6F9A6303DFC6A3E8D3092C0DA94&album_id=15289993"
+    },
+    {
+        "music_name": "英雄 運命の詩 (Remix)",
+        "singer_name": "Ayasa绚沙",
+        "music_url": "https://www.kugou.com/song/#hash=34BB8DA02F4D4A9DC097C1CC7C685EE5&album_id=15141968"
+    }
+][
+    {
+        "music_name": "虹",
+        "singer_name": "菅田将暉",
+        "music_url": "https://www.kugou.com/song/#hash=52C18062086212770EE20E16F0297599&album_id=39709180"
+    },
+    {
+        "music_name": "ドラえもんのうた (哆啦A梦之歌)",
+        "singer_name": "大杉久美子",
+        "music_url": "https://www.kugou.com/song/#hash=46174C91B60E9F98C0DEE2D9E824C40E&album_id=8275240"
+    },
+    {
+        "music_name": "夢をかなえてドラえもん (实现梦想的哆啦A梦)",
+        "singer_name": "Duca",
+        "music_url": "https://www.kugou.com/song/#hash=DBEAA7E5BA2E74E2F78E61E67DCEFFE3&album_id=891700"
+    },
+    {
+        "music_name": "多啦A梦",
+        "singer_name": "陈慧琳",
+        "music_url": "https://www.kugou.com/song/#hash=0789C03CBC202E02683874A07C3D4869&album_id=530092"
+    },
+    {
+        "music_name": "ひまわりの約束 (向日葵的约定)",
+        "singer_name": "秦基博",
+        "music_url": "https://www.kugou.com/song/#hash=08FA647D3FBE810C035C6F05F9F0EC3F&album_id=967972"
+    },
+    {
+        "music_name": "ドラえもんのうた (哆啦A梦之歌)",
+        "singer_name": "大山のぶ代",
+        "music_url": "https://www.kugou.com/song/#hash=923531735FC1C13290242AB5352CC3D1&album_id=8275826"
+    },
+    {
+        "music_name": "ドラえもんのうた (哆啦A梦之歌)",
+        "singer_name": "山野さと子",
+        "music_url": "https://www.kugou.com/song/#hash=08C4FD90511D9B8ED8E40B5E475DF96A&album_id=1012287"
+    },
+    {
+        "music_name": "向日葵的约定",
+        "singer_name": "金贵晟",
+        "music_url": "https://www.kugou.com/song/#hash=D697B91E093B94A3BC2B93AA13202633&album_id=886291"
+    },
+    {
+        "music_name": "夢をかなえてドラえもん (实现梦想的哆啦A梦)",
+        "singer_name": "Duca、ひまわりキッズ",
+        "music_url": "https://www.kugou.com/song/#hash=2A7A7D73295EFE2FC7C430952556C0ED&album_id=939426"
+    },
+    {
+        "music_name": "ドラえもんのうた (哆啦A梦之歌)(TV サイズ)",
+        "singer_name": "大杉久美子",
+        "music_url": "https://www.kugou.com/song/#hash=61AC52D6C15EF2ED42DF09AC86C7B5D5&album_id=939427"
+    },
+    {
+        "music_name": "ドラえも~ん!",
+        "singer_name": "菊池俊輔",
+        "music_url": "https://www.kugou.com/song/#hash=465FE375261FCD7D25B360DE08669D5C&album_id=939427"
+    },
+    {
+        "music_name": "Birthday",
+        "singer_name": "Mr.Children",
+        "music_url": "https://www.kugou.com/song/#hash=ECB243EAB35434D1BAE6B9F323CAE6C5&album_id=36572797"
+    },
+    {
+        "music_name": "ドラえもん (哆啦A梦)",
+        "singer_name": "星野源",
+        "music_url": "https://www.kugou.com/song/#hash=B324608B6B69B38A901898AC6A46635B&album_id=28274496"
+    },
+    {
+        "music_name": "2010 新・のび太の人魚大海戦『帰る場所』 (回去的地方)",
+        "singer_name": "青山テルマ",
+        "music_url": "https://www.kugou.com/song/#hash=E54130F3B74A98B4ADF5820690059288&album_id=1989928"
+    },
+    {
+        "music_name": "ドラえもんのうた (哆啦A梦之歌)",
+        "singer_name": "AJI",
+        "music_url": "https://www.kugou.com/song/#hash=B7862C7BC6E032B704678F5FE6B54806&album_id=1989928"
+    },
+    {
+        "music_name": "ここにいないあなたへ (给不在这里的你)",
+        "singer_name": "星野源",
+        "music_url": "https://www.kugou.com/song/#hash=C163525DEAE3558268F47DD0C858498B&album_id=28274496"
+    },
+    {
+        "music_name": "THE GIFT (厚礼)(Movie Edit)",
+        "singer_name": "平井大",
+        "music_url": "https://www.kugou.com/song/#hash=525281BC1A90782172E235E5F35A43CD&album_id=15273763"
+    },
+    {
+        "music_name": "哆啦A梦",
+        "singer_name": "安安",
+        "music_url": "https://www.kugou.com/song/#hash=A4651CA88896B0AADACC940EB2868723&album_id=38863215"
+    },
+    {
+        "music_name": "ドラえもんのうた (多啦A梦之歌)(山野さと子版/TVサイズ)",
+        "singer_name": "山野さと子",
+        "music_url": "https://www.kugou.com/song/#hash=7B74499E94318007DBD3C428E8A73D88&album_id=939427"
+    },
+    {
+        "music_name": "梦",
+        "singer_name": "廖碧儿",
+        "music_url": "https://www.kugou.com/song/#hash=74FDB3CC81883ECD95EB9D3CFD8C423A"
+    },
+    {
+        "music_name": "笑顔はひみつ道具 (笑容是秘密道具)",
+        "singer_name": "CHIAKI",
+        "music_url": "https://www.kugou.com/song/#hash=F05468DD6C5D23FCD83AEA8A6C7C08B0&album_id=552874"
+    },
+    {
+        "music_name": "僕の心をつくってよ (创造我的心)",
+        "singer_name": "平井堅",
+        "music_url": "https://www.kugou.com/song/#hash=8B2433AD97DA424ADC861674B569560C&album_id=1975544"
+    },
+    {
+        "music_name": "ドラえもんのうた (哆啦A梦之歌)(オリジナル・カラオケ)",
+        "singer_name": "小坂明子",
+        "music_url": "https://www.kugou.com/song/#hash=A3ADDB478D823B4B76B86DFDC589F87F&album_id=751683"
+    },
+    {
+        "music_name": "君と重ねたモノローグ (和你交织的独角戏)(和你交织的独角戏)",
+        "singer_name": "Mr.Children",
+        "music_url": "https://www.kugou.com/song/#hash=0DE7458F12DDA40C5CA12469CAF6D1FC&album_id=36572797"
+    },
+    {
+        "music_name": "Yume日和 (梦境日和)",
+        "singer_name": "島谷ひとみ",
+        "music_url": "https://www.kugou.com/song/#hash=2B32F07A12F3033014E45F13C0EA0A62&album_id=577308"
+    },
+    {
+        "music_name": "2008 のび太と緑の巨人伝『手をつなごう』 (手拉手 (诺比太和绿色巨人))",
+        "singer_name": "絢香",
+        "music_url": "https://www.kugou.com/song/#hash=2D3A398134AD29ECC365760713FCAECE&album_id=1989928"
+    },
+    {
+        "music_name": "少年期 (少年期 （诺比太的宇宙小战争）)",
+        "singer_name": "武田铁矢",
+        "music_url": "https://www.kugou.com/song/#hash=F7FC08F15C5D0EDEF734CB64BA52D1C7&album_id=1739141"
+    },
+    {
+        "music_name": "未来のミュージアム (未来的博物馆)",
+        "singer_name": "Perfume",
+        "music_url": "https://www.kugou.com/song/#hash=EBB376C3BF7456167DB5F587EE9A9160&album_id=541290"
+    },
+    {
+        "music_name": "空へ (飞向天空)",
+        "singer_name": "山崎将义",
+        "music_url": "https://www.kugou.com/song/#hash=9D3A2BA7642EA5DC9F4D3D6FDEFD8F52&album_id=1076399"
+    },
+    {
+        "music_name": "哆啦A梦 (Remix)",
+        "singer_name": "童年",
+        "music_url": "https://www.kugou.com/song/#hash=FC4EC1C0D3BD8B66D3D4DECD936D1D77&album_id=39025526"
+    }
+][
+    {
+        "music_name": "大鱼",
+        "singer_name": "周深",
+        "music_url": "https://www.kugou.com/song/#hash=3B15F1E26C4F8E24D5C7129FB61D487A&album_id=1637713"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "周深、郭沁",
+        "music_url": "https://www.kugou.com/song/#hash=9F8F70AC1C496BFC5B5E48252C6B6EB7&album_id=3998508"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "纯音乐",
+        "music_url": "https://www.kugou.com/song/#hash=CCCD9D8E54271FFDCBEF28853BB9C3FD&album_id=49557938"
+    },
+    {
+        "music_name": "大鱼 (2017中国新歌声第二季第10期现场)",
+        "singer_name": "郭沁、周深",
+        "music_url": "https://www.kugou.com/song/#hash=0A4F8291BD4462B7DA5A708C4EAE3B07"
+    },
+    {
+        "music_name": "大鱼 (唱片版)",
+        "singer_name": "周深",
+        "music_url": "https://www.kugou.com/song/#hash=272E4CF3E11A00BFF836C5284F19A5C8&album_id=5974946"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "双笙(陈元汐)",
+        "music_url": "https://www.kugou.com/song/#hash=F2B5941EEFE2A866D716A07CEC60C813&album_id=1672318"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "赵海洋",
+        "music_url": "https://www.kugou.com/song/#hash=C7F9BCE1B1A89FE700ED297CEB5ECDE4&album_id=35841959"
+    },
+    {
+        "music_name": "大鱼 (古筝版)",
+        "singer_name": "纯音乐",
+        "music_url": "https://www.kugou.com/song/#hash=0F80A7B722B72BAE8BF6B2AB8222A54E"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "冯提莫",
+        "music_url": "https://www.kugou.com/song/#hash=CC86798285FF1F9032D1F4424AEC4691&album_id=14015862"
+    },
+    {
+        "music_name": "大鱼 (天籁女声版)",
+        "singer_name": "叶微凉",
+        "music_url": "https://www.kugou.com/song/#hash=635222B84DA8997149336C831878A685"
+    },
+    {
+        "music_name": "大鱼 (片段)",
+        "singer_name": "要不要买菜",
+        "music_url": "https://www.kugou.com/song/#hash=29DD468856ECA55BEDDFF15F44925610"
+    },
+    {
+        "music_name": "大鱼 (背景纯音乐)",
+        "singer_name": "轻音乐馆",
+        "music_url": "https://www.kugou.com/song/#hash=ED70C7A48F9C88D5899415A0D0D8F08F&album_id=43896719"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "王玉萌",
+        "music_url": "https://www.kugou.com/song/#hash=A3BDC49B959807955AA8896DA81C687B&album_id=15233297"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "郭沁、邢晗铭",
+        "music_url": "https://www.kugou.com/song/#hash=CA71AF1A1FD27D257E557BC7F851D05E&album_id=48960639"
+    },
+    {
+        "music_name": "大鱼 (3D环绕版)",
+        "singer_name": "周深",
+        "music_url": "https://www.kugou.com/song/#hash=F2C27200D31AAFD1D5C58F32F09906F2"
+    },
+    {
+        "music_name": "大鱼 (片段)",
+        "singer_name": "笑白Ermy",
+        "music_url": "https://www.kugou.com/song/#hash=E032E053D7C0C3EAC31A544C5CB3A53B"
+    },
+    {
+        "music_name": "大鱼 (DJ版)",
+        "singer_name": "泪鑫",
+        "music_url": "https://www.kugou.com/song/#hash=817199811C54930AD2E85E63B20D9F77&album_id=46694910"
+    },
+    {
+        "music_name": "宝藏女孩",
+        "singer_name": "大鱼",
+        "music_url": "https://www.kugou.com/song/#hash=3730CE125C3CF3377A17271DE767E67F&album_id=40424567"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "范辰溪",
+        "music_url": "https://www.kugou.com/song/#hash=A7D4E778D5780BD4683C9B550060C9D1&album_id=46475324"
+    },
+    {
+        "music_name": "大鱼  (钢琴版)",
+        "singer_name": "昼夜",
+        "music_url": "https://www.kugou.com/song/#hash=7E6F1456956EBD2AEBB8858E304BFD5A&album_id=8537457"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "莫文蔚",
+        "music_url": "https://www.kugou.com/song/#hash=CAA0297E3BF9156456946E47A06B9763&album_id=7206051"
+    },
+    {
+        "music_name": "欲言又止",
+        "singer_name": "大鱼",
+        "music_url": "https://www.kugou.com/song/#hash=8F05D7A600B1E26F025F2D40DB708765&album_id=49100965"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "昼夜",
+        "music_url": "https://www.kugou.com/song/#hash=7E6F1456956EBD2AEBB8858E304BFD5A&album_id=17906828"
+    },
+    {
+        "music_name": "大鱼 (钢琴曲)",
+        "singer_name": "星宇轩",
+        "music_url": "https://www.kugou.com/song/#hash=C670805438C151215763C25AEB3D7A1E&album_id=44872947"
+    },
+    {
+        "music_name": "大鱼 (Live)",
+        "singer_name": "马嘉祺",
+        "music_url": "https://www.kugou.com/song/#hash=875036F74CD5FFB7C66E1024DCAE9B48"
+    },
+    {
+        "music_name": "大鱼 (纯音乐)",
+        "singer_name": "耀温顺",
+        "music_url": "https://www.kugou.com/song/#hash=A4E513A08D96CDCD83C64A6484A3B7DD&album_id=38101265"
+    },
+    {
+        "music_name": "大鱼(钢琴版)",
+        "singer_name": "赵超",
+        "music_url": "https://www.kugou.com/song/#hash=3BC5AA9E7E17F34B8509BAECDC83177A&album_id=10059232"
+    },
+    {
+        "music_name": "大鱼",
+        "singer_name": "一只鹤hh",
+        "music_url": "https://www.kugou.com/song/#hash=3E20527022D6C699C3A39EAD22E0F4CD&album_id=40237359"
+    },
+    {
+        "music_name": "大鱼 (钢琴版)",
+        "singer_name": "文武贝",
+        "music_url": "https://www.kugou.com/song/#hash=BB965498DA38B305E9AFA7212EF4D6A9&album_id=18724792"
+    },
+    {
+        "music_name": "大鱼 (2019天猫双11狂欢夜现场)",
+        "singer_name": "罗云熙",
+        "music_url": "https://www.kugou.com/song/#hash=93AD1CC05F2DC50E495F50B2B096B9AD"
+    }
 ]
