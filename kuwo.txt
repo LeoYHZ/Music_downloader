@@ -4137,4 +4137,155 @@
         "singer_name": "Mukyo木西",
         "music_url": "http://www.kuwo.cn/play_detail/27837411"
     }
+][
+    {
+        "music_name": "人间惊鸿客(DJ沈念版)",
+        "singer_name": "叶里",
+        "music_url": "http://www.kuwo.cn/play_detail/154980589"
+    },
+    {
+        "music_name": "人间惊鸿客",
+        "singer_name": "叶里",
+        "music_url": "http://www.kuwo.cn/play_detail/149094033"
+    },
+    {
+        "music_name": "人间惊鸿客(抖音DJ热搜版)",
+        "singer_name": "李三妹",
+        "music_url": "http://www.kuwo.cn/play_detail/157006553"
+    },
+    {
+        "music_name": "人间惊鸿客(片段)",
+        "singer_name": "叶里",
+        "music_url": "http://www.kuwo.cn/play_detail/164656086"
+    },
+    {
+        "music_name": "人间惊鸿客(DJ版)",
+        "singer_name": "胡文博BOY",
+        "music_url": "http://www.kuwo.cn/play_detail/165569755"
+    },
+    {
+        "music_name": "人间惊鸿客(片段)",
+        "singer_name": "来一碗老于",
+        "music_url": "http://www.kuwo.cn/play_detail/170853697"
+    },
+    {
+        "music_name": "人间惊鸿客",
+        "singer_name": "泽典",
+        "music_url": "http://www.kuwo.cn/play_detail/156557609"
+    },
+    {
+        "music_name": "人间惊鸿客+(奥特曼改编版片段)",
+        "singer_name": "芷云",
+        "music_url": "http://www.kuwo.cn/play_detail/190206057"
+    },
+    {
+        "music_name": "人间惊鸿客(片段)",
+        "singer_name": "糯米Nomi",
+        "music_url": "http://www.kuwo.cn/play_detail/168584136"
+    },
+    {
+        "music_name": "人间惊鸿客（DJ版）",
+        "singer_name": "我是你的小酷呀",
+        "music_url": "http://www.kuwo.cn/play_detail/199891793"
+    },
+    {
+        "music_name": "人间惊鸿客",
+        "singer_name": "阿YueYue",
+        "music_url": "http://www.kuwo.cn/play_detail/160319628"
+    },
+    {
+        "music_name": "人间惊鸿客(片段)",
+        "singer_name": "大神慧",
+        "music_url": "http://www.kuwo.cn/play_detail/167433803"
+    },
+    {
+        "music_name": "人间惊鸿客(钢琴版) (翻奏: 叶里)",
+        "singer_name": "阿祥",
+        "music_url": "http://www.kuwo.cn/play_detail/182508705"
+    },
+    {
+        "music_name": "人间惊鸿客(片段)",
+        "singer_name": "崔天琪",
+        "music_url": "http://www.kuwo.cn/play_detail/190084034"
+    },
+    {
+        "music_name": "人间惊鸿客",
+        "singer_name": "尘ah.",
+        "music_url": "http://www.kuwo.cn/play_detail/160961722"
+    },
+    {
+        "music_name": "人间惊鸿客(抖音热播版)",
+        "singer_name": "抖音音乐",
+        "music_url": "http://www.kuwo.cn/play_detail/166117564"
+    },
+    {
+        "music_name": "人间惊鸿客（抖音DJ版） - 陌雪",
+        "singer_name": "门哥",
+        "music_url": "http://www.kuwo.cn/play_detail/184758643"
+    },
+    {
+        "music_name": "人间惊鸿客(DJ版)",
+        "singer_name": "马芸菲菲",
+        "music_url": "http://www.kuwo.cn/play_detail/167611000"
+    },
+    {
+        "music_name": "人间惊鸿客(孤独版)",
+        "singer_name": "赵子明",
+        "music_url": "http://www.kuwo.cn/play_detail/152850776"
+    },
+    {
+        "music_name": "人间惊鸿客(抖音完整原版)",
+        "singer_name": "糖爷",
+        "music_url": "http://www.kuwo.cn/play_detail/152137647"
+    },
+    {
+        "music_name": "人间惊鸿客(DJ版)",
+        "singer_name": "前女友&寐加岛&圈妹&DJ小可",
+        "music_url": "http://www.kuwo.cn/play_detail/153739854"
+    },
+    {
+        "music_name": "人间惊鸿客(抖音流量版)",
+        "singer_name": "小夕兮&小可",
+        "music_url": "http://www.kuwo.cn/play_detail/156634539"
+    },
+    {
+        "music_name": "人间惊鸿客",
+        "singer_name": "浩然音乐",
+        "music_url": "http://www.kuwo.cn/play_detail/172670220"
+    },
+    {
+        "music_name": "人间惊鸿客(超燃节奏版)",
+        "singer_name": "呆妹儿&小可",
+        "music_url": "http://www.kuwo.cn/play_detail/156511553"
+    },
+    {
+        "music_name": "人间惊鸿客",
+        "singer_name": "阿怡",
+        "music_url": "http://www.kuwo.cn/play_detail/173218940"
+    },
+    {
+        "music_name": "人间惊鸿客(吉他版)",
+        "singer_name": "阿怡",
+        "music_url": "http://www.kuwo.cn/play_detail/173219987"
+    },
+    {
+        "music_name": "人间惊鸿客",
+        "singer_name": "芸梦&余厌",
+        "music_url": "http://www.kuwo.cn/play_detail/159868817"
+    },
+    {
+        "music_name": "人间惊鸿客 (cover: 江栈)",
+        "singer_name": "仟浔",
+        "music_url": "http://www.kuwo.cn/play_detail/148978260"
+    },
+    {
+        "music_name": "人间惊鸿客(DJ版)",
+        "singer_name": "傻白婷",
+        "music_url": "http://www.kuwo.cn/play_detail/160742973"
+    },
+    {
+        "music_name": "人间惊鸿客",
+        "singer_name": "H.G",
+        "music_url": "http://www.kuwo.cn/play_detail/141760648"
+    }
 ]

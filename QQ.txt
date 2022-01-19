@@ -2650,4 +2650,55 @@
         "singer_name": "双笙 (陈元汐)",
         "music_url": "https://y.qq.com/n/ryqq/songDetail/004Y8lIm3220pi"
     }
+][
+    {
+        "music_name": "人间惊鸿客",
+        "singer_name": "叶里",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003eTJTh36iQv2"
+    },
+    {
+        "music_name": "人间惊鸿客 (DJ沈念版)",
+        "singer_name": "叶里",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/000sjmM32nA9lS"
+    },
+    {
+        "music_name": "人间惊鸿客 (甜蜜女声版)",
+        "singer_name": "小白受",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004PLUSG1YgS5o"
+    },
+    {
+        "music_name": "人间惊鸿客",
+        "singer_name": "泽典",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/003wB3NT1BMCwA"
+    },
+    {
+        "music_name": "人间惊鸿客 (抖音完整版)",
+        "singer_name": "阿怡",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/0036uDTO323Ebs"
+    },
+    {
+        "music_name": "人间惊鸿客",
+        "singer_name": "来一碗老于",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004atTdn0rwKeP"
+    },
+    {
+        "music_name": "人间惊鸿客 (魅力男声版)",
+        "singer_name": "威神",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001zFteX41QcHy"
+    },
+    {
+        "music_name": "人间惊鸿客(DJ沈念版) - 叶里-叹人间一去风流为少年，将白驹轻踏巡山海作诗篇 (节目)",
+        "singer_name": "琳小柒",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004M9ZYT17V4in"
+    },
+    {
+        "music_name": "清空＋你头顶的风＋负重一万斤长大＋TA＋赤伶＋寂寞沙洲冷＋间距＋夜夜夜漫长＋人间惊鸿客＋兰亭序＋美人画卷＋花海＋依兰爱情故事",
+        "singer_name": "于黑蛋",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/004KRUDx2qQbUK"
+    },
+    {
+        "music_name": "你是檐上三寸雪 我是人间惊鸿客",
+        "singer_name": "鸾音社",
+        "music_url": "https://y.qq.com/n/ryqq/songDetail/001Ek3LU2xMUKE"
+    }
 ]
